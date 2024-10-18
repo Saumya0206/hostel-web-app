@@ -11,7 +11,8 @@ class ComplaintList(generic.ListView):
 hostels = [
     'B1',
     'B2',
-    'B5'
+    'B5',
+    'G4'
 ]
 
 
